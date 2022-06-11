@@ -1,0 +1,17 @@
+
+.scorebord{
+
+    border: 7px outset #29e0cb;
+    color: #3b18e7;
+line-height: 1.4;
+letter-spacing: 2px;
+word-spacing: 4px;
+text-align: center;
+text-decoration: none;
+text-transform: none;
+border-radius: 29px;
+box-shadow: -4px -1px 11px 6px rgba(133, 145, 234, 0.29);
+font-size: 1.3 rem;
+background-image: linear-gradient(180deg, rgba(25, 136, 247, 1) 12%, rgba(166, 169, 242, 0.35) 84%);
+
+}
